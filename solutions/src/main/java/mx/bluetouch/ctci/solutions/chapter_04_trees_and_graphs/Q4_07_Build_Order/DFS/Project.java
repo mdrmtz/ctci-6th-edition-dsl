@@ -4,37 +4,37 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Project {
-	public enum State {COMPLETE, PARTIAL, BLANK}
+    public enum State {COMPLETE, PARTIAL, BLANK}
 
     private final ArrayList<Project> children = new ArrayList<Project>();
-	private final HashMap<String, Project> map = new HashMap<String, Project>();
-	private final String name;
-	private State state = State.BLANK;
-	
-	public Project(String n) {
-		name = n;
-	}
+    private final HashMap<String, Project> map = new HashMap<String, Project>();
+    private final String name;
+    private State state = State.BLANK;
 
-	public String getName() {
-		return name;
-	}
-	
-	public void addNeighbor(Project node) {
-		if (!map.containsKey(node.getName())) {
-			children.add(node);
-			map.put(node.getName(), node);
-		}
-	}
-	
-	public State getState() { 
-		return state;
-	}
-	
-	public void setState(State st) {
-		state = st;
-	}
-	
-	public ArrayList<Project> getChildren() {
-		return children;
-	}
+    public Project(String n) {
+        name = n;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void addNeighbor(Project node) {
+        if (!map.containsKey(node.getName())) {
+            children.add(node);
+            map.put(node.getName(), node);
+        }
+    }
+
+    public State getState() {
+        return state;
+    }
+
+    public void setState(State st) {
+        state = st;
+    }
+
+    public ArrayList<Project> getChildren() {
+        return children;
+    }
 }

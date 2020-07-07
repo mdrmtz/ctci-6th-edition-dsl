@@ -2,9 +2,18 @@ package mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Juke
 
 
 public class SongSelector {
-	private Song currentSong;
-	public SongSelector(Song s) { currentSong=s; }
-	public void setSong(Song s) { currentSong = s;	}
-	public Song getCurrentSong() { return currentSong;	}
+    private Song currentSong;
+
+    public SongSelector(Song s) {
+        currentSong = s;
+    }
+
+    public void setSong(Song s) {
+        currentSong = s;
+    }
+
+    public Song getCurrentSong() {
+        return currentSong;
+    }
 }
 

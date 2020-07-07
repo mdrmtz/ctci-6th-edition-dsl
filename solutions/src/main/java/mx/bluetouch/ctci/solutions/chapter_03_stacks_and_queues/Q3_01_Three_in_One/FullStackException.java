@@ -1,13 +1,13 @@
 package mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One;
 
 public class FullStackException extends Exception {
-	private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L;
 
-	public FullStackException(){
+    public FullStackException() {
         super();
     }
 
-    public FullStackException(String message){
+    public FullStackException(String message) {
         super(message);
     }
 }

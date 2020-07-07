@@ -1,59 +1,59 @@
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_12_XML_Encoding/Attribute.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_12_XML_Encoding.Attribute
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_5_One_Away/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_5_One_Away.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/GroupChat.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.GroupChat
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_04_Partition/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_04_Partition.QuestionB
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionC
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_1_Is_Unique/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_1_Is_Unique.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_09_Operations/Question.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_09_Operations.Question
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.QuestionA
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_05_Call_In_Order/Question.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_05_Call_In_Order.Question
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_07_Missing_Int/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_07_Missing_Int.QuestionA
-mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_02.java
- mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_02
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_15_Master_Mind/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_15_Master_Mind.Tester
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/PathNode.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.PathNode
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Puzzle.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Puzzle
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_04_Queue_via_Stacks/MyQueue.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_04_Queue_via_Stacks.MyQueue
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/UserPlayResult.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.UserPlayResult
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.QuestionC
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_1_Is_Unique/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_1_Is_Unique.QuestionA
 mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_03_Flip_Bit_to_Win/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_03_Flip_Bit_to_Win.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_10_Living_People.QuestionB
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/Common.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.Common
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_05_Validate_BST/IntWrapper.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_05_Validate_BST.IntWrapper
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Arrayish/Question.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Arrayish.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Board.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Board
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.Tester
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Board.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Board
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Board$1
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackHand.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackHand
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_06_Animal_Shelter/Animal.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_06_Animal_Shelter.Animal
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_26_Calculator/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB$1
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB$Operator
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/ParkingLot.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.ParkingLot
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Automator.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Automator
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/MultiStack.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.MultiStack
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.MultiStack$StackInfo
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/Range.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_16_Sub_Sort.Range
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Hand.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Hand
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionC
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_03_Stack_of_Plates/SetOfStacks.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_03_Stack_of_Plates.SetOfStacks
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_05_Call_In_Order/FooBad.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_05_Call_In_Order.FooBad
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Board.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Board
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/Point.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.Point
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Employee.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Employee
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_07_Pairwise_Swap/Question.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_07_Pairwise_Swap.Question
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.Tester
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_13_Bisect_Squares/Point.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_13_Bisect_Squares.Point
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_05_Sum_Lists/QuestionA.java
@@ -66,8 +66,8 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequenc
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionA
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/User.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_05_Online_Book_Reader.User
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Question
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_02_Word_Frequencies/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_02_Word_Frequencies.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_07_Number_Max/Question.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_07_Number_Max.Question
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/Library.java
@@ -78,22 +78,22 @@ mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_12_Paths_with_Sum/Que
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_12_Paths_with_Sum.QuestionA
 mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_09.java
  mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_09
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_01_Add_Without_Plus/Tester.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_01_Add_Without_Plus.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/Playlist.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.Playlist
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackGameAutomator.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackGameAutomator
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionA
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_07_Lambda_Expressions/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_07_Lambda_Expressions.QuestionB
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_01_Triple_Step/Tester.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_01_Triple_Step.Tester
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/VehicleSize.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.VehicleSize
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_09_Parens/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_09_Parens.QuestionA
-mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/FBThread.java
- mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.FBThread
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionC
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_03_List_of_Depths/QuestionBFS.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_03_List_of_Depths.QuestionBFS
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionC
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionB
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_02_Stack_Min/Question.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_02_Stack_Min.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_07_Baby_Names/NameSet.java
@@ -102,37 +102,37 @@ mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_05_Validate_BST/Quest
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_05_Validate_BST.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_18_Pattern_Matcher/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_18_Pattern_Matcher.QuestionD
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/OnlineReaderSystem.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_05_Online_Book_Reader.OnlineReaderSystem
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/Range.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.Range
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_10_Rank_from_Stream/Question.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_10_Rank_from_Stream.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Piece.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Piece
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_01_Number_Swapper/Question.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_01_Number_Swapper.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/CallHandler.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.CallHandler
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Question
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionA
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_09_Sorted_Matrix_Search/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_09_Sorted_Matrix_Search.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackCard.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackCard
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_02_Group_Anagrams/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_02_Group_Anagrams.QuestionB
 mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_10.java
  mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_10
-mx/bluetouch/ctci/solutions/chapter_13_java/Q13_08_Lambda_Random/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_13_java.Q13_08_Lambda_Random.QuestionC
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Tester
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/EdgeRemoval/Project.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.EdgeRemoval.Project
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Orientation.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Orientation
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_11_Coins/Tester.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_11_Coins.Tester
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionE.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionE
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionE$Result
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_07_Baby_Names/GraphNode.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_07_Baby_Names.GraphNode
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionD
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionC
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/Others.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Others
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Others$Term
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_04_Deadlock_Free_Class/LockNode.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_04_Deadlock_Free_Class.LockNode
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_04_Deadlock_Free_Class.LockNode$VisitState
@@ -140,18 +140,18 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_16_Sub_Sort.QuestionB
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/FullStackException.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.FullStackException
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_11_Diving_Board/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_11_Diving_Board.QuestionA
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Vehicle.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Vehicle
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/CallHandler.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.CallHandler
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_06_Conversion/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_06_Conversion.QuestionB
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/FizzBuzzThread.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.FizzBuzzThread
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_10_Living_People.QuestionD
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_14_Best_Line/GraphPoint.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_14_Best_Line.GraphPoint
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Piece.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Piece
+mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionB/Philosopher.java
+ mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionB.Philosopher
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_20_Continuous_Median/Question.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_20_Continuous_Median.Question
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_02_Stack_Min/StackWithMin2.java
@@ -160,16 +160,17 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_06_Smallest_Difference/Quest
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_06_Smallest_Difference.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_17_Multi_Search/TrieNode.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_17_Multi_Search.TrieNode
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Entry.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Entry
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionC
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionB
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_12_Paths_with_Sum/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_12_Paths_with_Sum.Tester
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_18_Pattern_Matcher/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_18_Pattern_Matcher.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_09_Kth_Multiple/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_09_Kth_Multiple.QuestionC
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_05_Cache/Question.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_05_Cache.Question
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionD.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionD
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionD$PartitionResult
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/SongSelector.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.SongSelector
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_09_Sorted_Matrix_Search/Coordinate.java
@@ -180,40 +181,40 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_19_Missing_Two/QuestionB
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_19_Missing_Two.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_06_Count_of_2s/Question.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_06_Count_of_2s.Question
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.Tester
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_04_Check_Balanced/QuestionImproved.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_04_Check_Balanced.QuestionImproved
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_19_Pond_Sizes/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_19_Pond_Sizes.QuestionA
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionC
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.QuestionB
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_11_Diving_Board/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_11_Diving_Board.QuestionC
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_07_Missing_Int/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_07_Missing_Int.QuestionB
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionC
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Car.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Car
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.Tester
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/UserManager.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.UserManager
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Tester
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionF.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionF
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_08_Circus_Tower/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_08_Circus_Tower.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_09_Kth_Multiple/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_09_Kth_Multiple.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_15_Longest_Word/Question.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_15_Longest_Word.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Level.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Level
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_04_Partition/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_04_Partition.QuestionC
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Deck.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Deck
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_03_Search_in_Rotated_Array/Question.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_03_Search_in_Rotated_Array.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_09_Circular_Array/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/Document.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.Document
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_13_Bisect_Squares/Line.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_13_Bisect_Squares.Line
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_06_Towers_of_Hanoi/Question.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_06_Towers_of_Hanoi.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Player.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Player
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_01_Triple_Step/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_01_Triple_Step.QuestionB
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionA.java
@@ -221,10 +222,10 @@ mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ances
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Orientation.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Orientation
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Orientation$1
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/Tester.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.Tester
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_03_Flip_Bit_to_Win/QuestionD.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_03_Flip_Bit_to_Win.QuestionD
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.Tester
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/Point.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.Point
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_17_Multi_Search/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_17_Multi_Search.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_05_Letters_and_Numbers/QuestionA.java
@@ -233,24 +234,26 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_15_Master_Mind/Result.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_15_Master_Mind.Result
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/Tester.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Manager.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Manager
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_14_Best_Line/Question.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_14_Best_Line.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Ant.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Ant
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Hasher.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Hasher
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Hasher$LinkedListNode
 mx/bluetouch/ctci/solutions/JoinUtils.java
  mx.bluetouch.ctci.solutions.JoinUtils
-mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_04.java
- mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_04
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_12_Eight_Queens/Question.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_12_Eight_Queens.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/PathNode.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.PathNode
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Caller.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Caller
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionA
 mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_05_Cache/Cache.java
  mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_05_Cache.Cache
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Card.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Card
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Card$1
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_2_Check_Permutation/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_2_Check_Permutation.QuestionA
 mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_05.java
@@ -280,18 +283,16 @@ mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_03_Stack_of_Plates/N
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_03_Stack_of_Plates.Node
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/LocationPair.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.LocationPair
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Card.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Card
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Card$1
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/PathNode.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.PathNode
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_07_The_Apocalypse/Question.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_07_The_Apocalypse.Question
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Director.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Director
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/BFSData.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.BFSData
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_11_Random_Node/Question.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_11_Random_Node.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Hasher.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Hasher
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Hasher$LinkedListNode
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionA
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_06_Object_Reflection/Question.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_06_Object_Reflection.Question
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_05_Sum_Lists/PartialSum.java
@@ -302,36 +303,36 @@ mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_08_Find_Duplica
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_08_Find_Duplicates.BitSet
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_01_Remove_Dups/Tester.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_01_Remove_Dups.Tester
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/TestStrip.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.TestStrip
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Car.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Car
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_08_Circus_Tower/QuestionOld.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_08_Circus_Tower.QuestionOld
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_2_Check_Permutation/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_2_Check_Permutation.QuestionB
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.QuestionA
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/JukeBox.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.JukeBox
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_23_Max_Black_Square/Question.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_23_Max_Black_Square.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Point.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Point
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_05_Factorial_Zeros/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_05_Factorial_Zeros.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/CDPlayer.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.CDPlayer
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/Conversation.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.Conversation
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_09_Sorted_Matrix_Search/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_09_Sorted_Matrix_Search.QuestionB
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_12_XML_Encoding/QuestionOO.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_12_XML_Encoding.QuestionOO
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionA
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_05_Cache/Question.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_05_Cache.Question
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_10_Paint_Fill/Question.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_10_Paint_Fill.Question
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_10_Paint_Fill.Question$1
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_10_Paint_Fill.Question$Color
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/UserManager.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.UserManager
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/Tester.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.Tester
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_02_Stack_Min/StackWithMin.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_02_Stack_Min.StackWithMin
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_02_Word_Frequencies/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_02_Word_Frequencies.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_21_Sum_Swap/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_21_Sum_Swap.Tester
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Directory.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Directory
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_04_Missing_Number/BitInteger.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_04_Missing_Number.BitInteger
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/QuestionA.java
@@ -342,40 +343,40 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Question.jav
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Question
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_02_Minimal_Tree/Question.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_02_Minimal_Tree.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.QuestionC
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_12_Paths_with_Sum/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_12_Paths_with_Sum.QuestionB
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Game.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Game
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionB
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Test.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Test
-mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_12.java
- mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_12
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_06_Towers_of_Hanoi/Tower.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_06_Towers_of_Hanoi.Tower
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_01_Private_Constructor/Question.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_01_Private_Constructor.Question
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_01_Private_Constructor.Question$A
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_01_Private_Constructor.Question$B
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Edge.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Edge
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionB
 mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_02_Binary_to_String/Question.java
  mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_02_Binary_to_String.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_12_XML_Encoding/QuestionString.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_12_XML_Encoding.QuestionString
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Question
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionD.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionD
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_6_String_Compression/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_6_String_Compression.QuestionB
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Person.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Person
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_6_String_Compression/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_6_String_Compression.QuestionC
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Server.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Server
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_03_Magic_Index/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_03_Magic_Index.QuestionB
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/User.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.User
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.Tester
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_17_Multi_Search/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_17_Multi_Search.QuestionA
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_05_TreeMap_HashMap_LinkedHashMap/Question.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_05_TreeMap_HashMap_LinkedHashMap.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/Song.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.Song
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/Bottle.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.Bottle
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_08_Circus_Tower/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_08_Circus_Tower.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_25_LRU_Cache/Cache.java
@@ -387,18 +388,18 @@ mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_07_P
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_07_Permutations_Without_Dups.QuestionA
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Piece.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Piece
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_01_Route_Between_Nodes/Node.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_01_Route_Between_Nodes.Node
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Level.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Level
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/BFSData.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.BFSData
-mx/bluetouch/ctci/solutions/chapter_13_java/Q13_08_Lambda_Random/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_13_java.Q13_08_Lambda_Random.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/UserStatus.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.UserStatus
 mx/bluetouch/ctci/solutions/StringUtils.java
  mx.bluetouch.ctci.solutions.StringUtils
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/HistogramData.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.HistogramData
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/PrivateChat.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.PrivateChat
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.QuestionA
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_1_Is_Unique/Tester.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_1_Is_Unique.Tester
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_13_Bisect_Squares/Square.java
@@ -409,26 +410,27 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequenc
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionD
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionD
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/EdgeRemoval/Graph.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.EdgeRemoval.Graph
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Person.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Person
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_05_Letters_and_Numbers/Tester.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_05_Letters_and_Numbers.Tester
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/User.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.User
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionC
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionC$Index
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_19_Pond_Sizes/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_19_Pond_Sizes.QuestionB
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/OnlineReaderSystem.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_05_Online_Book_Reader.OnlineReaderSystem
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_11_Diving_Board/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_11_Diving_Board.QuestionB
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_08_Lambda_Random/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_08_Lambda_Random.QuestionB
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Game.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Game
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.QuestionB
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_10_Check_Subtree/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_10_Check_Subtree.QuestionB
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_02_Group_Anagrams/AnagramComparator.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_02_Group_Anagrams.AnagramComparator
 mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_05_Cache/Node.java
@@ -439,8 +441,9 @@ mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ances
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.Tester
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_09_BST_Sequences/Question.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_09_BST_Sequences.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Directory.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Directory
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionG.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionG
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionG$Check
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_19_Missing_Two/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_19_Missing_Two.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/HeapNode.java
@@ -459,59 +462,59 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/Question
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.QuestionC
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/UserStatusType.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.UserStatusType
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/QuestionD.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.QuestionD
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Game.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Game
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Game$GameState
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_26_Calculator/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionA
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_5_One_Away/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_5_One_Away.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Location.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Location
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_05_Factorial_Zeros/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_05_Factorial_Zeros.QuestionA
 mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_01.java
  mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_01
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_08_Loop_Detection/Question.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_08_Loop_Detection.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/Playlist.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.Playlist
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/DFS/Graph.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.DFS.Graph
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_23_Max_Black_Square/SquareCell.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_23_Max_Black_Square.SquareCell
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.QuestionC
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Cell.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Cell
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionC
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/Pair.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.Pair
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_18_Pattern_Matcher/Tester.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_18_Pattern_Matcher.Tester
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_11_Coins/Question.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_11_Coins.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.QuestionA
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Game.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Game
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Game$GameState
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.QuestionA
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/BFSData.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.BFSData
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Dummy.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Dummy
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Bus.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Bus
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionA
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_06_Animal_Shelter/AnimalQueue.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_06_Animal_Shelter.AnimalQueue
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_01_Route_Between_Nodes/Graph.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_01_Route_Between_Nodes.Graph
+mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_11.java
+ mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_11
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_12_BiNode/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.QuestionB
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/Tester.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.Tester
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Question
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.Tester
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionA
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/Question.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/Range.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.Range
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Rank.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Rank
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/User.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.User
 mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_03_Flip_Bit_to_Win/Tester.java
@@ -526,35 +529,36 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_20_Continuous_Median/Max
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_20_Continuous_Median.MaxHeapComparator
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/SubMatrix.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.SubMatrix
-mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/NumberThread.java
- mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.NumberThread
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_26_Calculator/Term.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.Term
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/File.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.File
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_26_Calculator/Term.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.Term
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_03_Random_Set/Question.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_03_Random_Set.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionA
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/Display.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_05_Online_Book_Reader.Display
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_12_Eight_Queens/Question.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_12_Eight_Queens.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_09_Circular_Array/CircularArray.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.CircularArray
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.CircularArray$CircularArrayIterator
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_15_Longest_Word/LengthComparator.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_15_Longest_Word.LengthComparator
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Tester.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Respondent.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Respondent
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_03_Random_Set/QuestionAlternate.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_03_Random_Set.QuestionAlternate
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionB
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Shape.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Shape
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Shape$1
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_25_Word_Rectangle/Rectangle.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_25_Word_Rectangle.Rectangle
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Rank.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Rank
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionA
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.QuestionA
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_25_Word_Rectangle/Question.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_25_Word_Rectangle.Question
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_11_Random_Node/TreeNode.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_11_Random_Node.TreeNode
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_06_Palindrome/QuestionB.java
@@ -563,38 +567,39 @@ mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.RequestStatus
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_07_Lambda_Expressions/Country.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_07_Lambda_Expressions.Country
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Color.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Color
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_05_Sort_Stack/Question.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_05_Sort_Stack.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Question
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_07_Permutations_Without_Dups/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_07_Permutations_Without_Dups.QuestionB
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionB
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_02_Group_Anagrams/Question.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_02_Group_Anagrams.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_21_Sum_Swap/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_21_Sum_Swap.QuestionD
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Arrayish/Listy.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Arrayish.Listy
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Puzzle.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Puzzle
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/UserPlay.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.UserPlay
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Manager.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Manager
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/TestStrip.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.TestStrip
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.Tester
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_04_Deadlock_Free_Class/LockFactory.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_04_Deadlock_Free_Class.LockFactory
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_08_Permutations_With_Dups/Question.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_08_Permutations_With_Dups.Question
-mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_11.java
- mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_11
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Bus.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Bus
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.QuestionC
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Dummy.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Dummy
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_04_Queue_via_Stacks/Question.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_04_Queue_via_Stacks.Question
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_07_Intersection/Question.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_07_Intersection.Question
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_07_Intersection.Question$Result
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/CDPlayer.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.CDPlayer
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.Tester
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_12_XML_Encoding/Element.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_12_XML_Encoding.Element
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Question
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_01_Insertion/Question.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_01_Insertion.Question
 mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_03_Flip_Bit_to_Win/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_03_Flip_Bit_to_Win.QuestionC
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_11_Coins/QuestionB.java
@@ -607,22 +612,22 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_25_LRU_Cache/Question.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_25_LRU_Cache.Question
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_06_Palindrome/Tester.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_06_Palindrome.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Player.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Player
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Board.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Board
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_09_Circular_Array/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.Question
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.Tester
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Question
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_02_Shuffle/Question.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_02_Shuffle.Question
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_10_Rank_from_Stream/RankNode.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_10_Rank_from_Stream.RankNode
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/ParseResult.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.ParseResult
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Location.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Location
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_20_Continuous_Median/MinHeapComparator.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_20_Continuous_Median.MinHeapComparator
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_03_Search_in_Rotated_Array/Question.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_03_Search_in_Rotated_Array.Question
-module-info.java
- module-info
+mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionA/Philosopher.java
+ mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionA.Philosopher
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Motorcycle.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Motorcycle
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_09_Kth_Multiple/QuestionA.java
@@ -635,26 +640,26 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_17_Contiguous_Sequence/Quest
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_17_Contiguous_Sequence.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/Tester.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_10_Living_People.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Suit.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Suit
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Question.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/Position.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.Position
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/Box.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.Box
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.QuestionB
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionB/Question.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionB.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/ParkingSpot.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.ParkingSpot
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Line.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Line
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionF.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionF
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_17_Multi_Search/Trie.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_17_Multi_Search.Trie
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_06_Animal_Shelter/Question.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_06_Animal_Shelter.Question
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionB
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_06_Smallest_Difference/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_06_Smallest_Difference.Tester
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_05_Sparse_Search/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_05_Sparse_Search.QuestionA
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_06_Synchronized_Methods/Foo.java
@@ -664,56 +669,57 @@ mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_03_Stack_of_Plates/Q
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_12_BiNode/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.QuestionA
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.QuestionA$NodePair
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/EdgeRemoval/Question.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.EdgeRemoval.Question
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionA
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_11_Random_Node/Tree.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_11_Random_Node.Tree
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_15_Master_Mind/Question.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_15_Master_Mind.Question
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/UserManager.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_05_Online_Book_Reader.UserManager
-mx/bluetouch/ctci/solutions/chapter_13_java/Q13_07_Lambda_Expressions/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_13_java.Q13_07_Lambda_Expressions.QuestionA
-mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionB/Chopstick.java
- mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionB.Chopstick
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/PrivateChat.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.PrivateChat
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/AddRequest.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.AddRequest
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_08_Draw_Line/Question.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_08_Draw_Line.Question
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_08_Find_Duplicates/Question.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_08_Find_Duplicates.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_01_Add_Without_Plus/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_01_Add_Without_Plus.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_08_Circus_Tower/Tester.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_08_Circus_Tower.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackGameAutomator.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackGameAutomator
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Server.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Server
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_06_Count_of_2s/QuestionBrute.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_06_Count_of_2s.QuestionBrute
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_09_Parens/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_09_Parens.QuestionB
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_04_Next_Number/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_04_Next_Number.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_14_Best_Line/Line.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_14_Best_Line.Line
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_25_Word_Rectangle/WordGroup.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_25_Word_Rectangle.WordGroup
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_08_Draw_Line/Question.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_08_Draw_Line.Question
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/AddRequest.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.AddRequest
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionA
-mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/Bottle.java
- mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.Bottle
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.QuestionB
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_03_Delete_Middle_Node/Question.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_03_Delete_Middle_Node.Question
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.Tester
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_04_Check_Balanced/QuestionBrute.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_04_Check_Balanced.QuestionBrute
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_01_Remove_Dups/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_01_Remove_Dups.QuestionB
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_6_String_Compression/Tester.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_6_String_Compression.Tester
 mx/bluetouch/ctci/solutions/SplitUtils.java
  mx.bluetouch.ctci.solutions.SplitUtils
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionC
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionC$Element
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_23_Max_Black_Square/Subsquare.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_23_Max_Black_Square.Subsquare
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/PositionIterator.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.PositionIterator
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_06_Towers_of_Hanoi/Tower.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_06_Towers_of_Hanoi.Tower
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Question
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_06_Conversion/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_06_Conversion.QuestionA
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_06_Object_Reflection/Rectangle.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_06_Object_Reflection.Rectangle
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/DFS/Project.java
@@ -721,20 +727,20 @@ mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/DFS/Pr
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.DFS.Project$State
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Direction.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Direction
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/Conversation.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.Conversation
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Motorcycle.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Motorcycle
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionC
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_03_Magic_Index/Question.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_03_Magic_Index.Question
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_9_String_Rotation/Question.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_9_String_Rotation.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Position.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Position
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackCard.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackCard
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_07_Baby_Names/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_07_Baby_Names.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_06_Jigsaw/Edge.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_06_Jigsaw.Edge
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/ParkingSpot.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.ParkingSpot
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_06_Successor/Question.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_06_Successor.Question
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/Tester.java
@@ -745,38 +751,36 @@ mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_05_Call_In_Order/My
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_05_Call_In_Order.MyThread
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/Piece.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.Piece
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Grid.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Grid
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_09_Parens/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_09_Parens.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_08_Circus_Tower/HtWt.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_08_Circus_Tower.HtWt
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_18_Pattern_Matcher/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_18_Pattern_Matcher.QuestionC
-mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Machine.java
- mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Machine
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/QuestionE.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionE
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionE$CountedLookup
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/UserStatus.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.UserStatus
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_12_Hash_Table/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_12_Hash_Table.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/JukeBox.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.JukeBox
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_12_BiNode/BiNode.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.BiNode
 mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_6_String_Compression/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_6_String_Compression.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_17_Multi_Search/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_17_Multi_Search.QuestionC
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_05_Sum_Lists/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_05_Sum_Lists.QuestionB
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Employee.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Employee
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_19_Missing_Two/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_19_Missing_Two.QuestionC
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_07_Baby_Names/Graph.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_07_Baby_Names.Graph
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/BlackJackHand.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.BlackJackHand
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_16_Sub_Sort.Tester
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_05_Letters_and_Numbers/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_05_Letters_and_Numbers.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Board.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Board
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Board$1
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_3_URLify/Question.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_3_URLify.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/Tester.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.Tester
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_06_Synchronized_Methods/MyThread.java
@@ -787,22 +791,22 @@ mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_10_Majority_Element/Ques
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_10_Majority_Element.QuestionA
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_01_Triple_Step/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_01_Triple_Step.QuestionA
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_12_BiNode/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Question.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Question
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_01_Remove_Dups/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_01_Remove_Dups.QuestionA
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_04_Deadlock_Free_Class/Question.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_04_Deadlock_Free_Class.Question
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_18_Pattern_Matcher/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_18_Pattern_Matcher.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Director.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Director
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionE.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionE
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.QuestionC
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_07_Permutations_Without_Dups/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_07_Permutations_Without_Dups.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Respondent.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Respondent
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/CD.java
  mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.CD
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_05_Sparse_Search/QuestionB.java
@@ -813,8 +817,8 @@ mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_06_Animal_Shelter/Do
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_06_Animal_Shelter.Dog
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_03_Stack_of_Plates/Stack.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_03_Stack_of_Plates.Stack
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/Message.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.Message
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_08_English_Int/Question.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_08_English_Int.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/DocPair.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.DocPair
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/Person.java
@@ -827,8 +831,8 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_21_Sum_Swap/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_21_Sum_Swap.QuestionC
 mx/bluetouch/ctci/solutions/chapter_13_java/Q13_07_Lambda_Expressions/Tester.java
  mx.bluetouch.ctci.solutions.chapter_13_java.Q13_07_Lambda_Expressions.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_06_Smallest_Difference/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_06_Smallest_Difference.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Call.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Call
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_02_Stack_Min/NodeWithMin.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_02_Stack_Min.NodeWithMin
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/Question.java
@@ -836,10 +840,10 @@ mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/Question.java
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_06_Palindrome/QuestionC.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_06_Palindrome.QuestionC
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_06_Palindrome.QuestionC$Result
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/BoxComparator.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.BoxComparator
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/Tester.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.Tester
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_7_Rotate_Matrix/Question.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_7_Rotate_Matrix.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/Message.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.Message
 mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_05_Egg_Drop/Question.java
  mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_05_Egg_Drop.Question
 mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_05_Online_Book_Reader/Book.java
@@ -850,216 +854,212 @@ mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_05_Call_In_Order/Fo
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_05_Call_In_Order.Foo
 mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_06_Synchronized_Methods/Question.java
  mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_06_Synchronized_Methods.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_01_Add_Without_Plus/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_01_Add_Without_Plus.QuestionB
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Call.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Call
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_07_Chat_Server/GroupChat.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_07_Chat_Server.GroupChat
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_09_Circular_Array/CircularArray.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.CircularArray
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_09_Circular_Array.CircularArray$CircularArrayIterator
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_03_Random_Set/Question.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_03_Random_Set.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_09_Operations/Question.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_09_Operations.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_03_Random_Set/QuestionAlternate.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_03_Random_Set.QuestionAlternate
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionB
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_7_Rotate_Matrix/Question.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_7_Rotate_Matrix.Question
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.QuestionA
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_25_Word_Rectangle/Question.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_25_Word_Rectangle.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionC
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_05_Sort_Stack/Question.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_05_Sort_Stack.Question
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_02_Group_Anagrams/Question.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_02_Group_Anagrams.Question
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_02_Call_Center/Caller.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_02_Call_Center.Caller
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.QuestionB
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/FixedMultiStack.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.FixedMultiStack
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.QuestionB
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.QuestionC
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/Tester.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_20_T9/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_20_T9.QuestionA
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Automator.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Automator
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/MultiStack.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.MultiStack
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.MultiStack$StackInfo
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_04_Queue_via_Stacks/Question.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_04_Queue_via_Stacks.Question
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_07_Intersection/Question.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_07_Intersection.Question
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_07_Intersection.Question$Result
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/Tester.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.Tester
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_01_Insertion/Question.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_01_Insertion.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionC
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_07_Pairwise_Swap/Question.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_07_Pairwise_Swap.Question
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/Tester.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.Tester
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/Tester.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.Tester
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Question.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_02_Shuffle/Question.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_02_Shuffle.Question
-mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionA/Philosopher.java
- mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionA.Philosopher
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_23_Max_Black_Square/Question.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_23_Max_Black_Square.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_02_Word_Frequencies/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_02_Word_Frequencies.QuestionA
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_09_Sorted_Matrix_Search/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_09_Sorted_Matrix_Search.QuestionB
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Question.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Question
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_03_List_of_Depths/QuestionBFS.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_03_List_of_Depths.QuestionBFS
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_02_Word_Frequencies/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_02_Word_Frequencies.QuestionB
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_21_Sum_Swap/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_21_Sum_Swap.Tester
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.QuestionB
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionB
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_07_Permutations_Without_Dups/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_07_Permutations_Without_Dups.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Hand.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Hand
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/Range.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.Range
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_01_Add_Without_Plus/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_01_Add_Without_Plus.QuestionB
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionC
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionA
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Machine.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Machine
+mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_04.java
+ mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_04
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.Tester
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_05_Validate_BST/IntWrapper.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_05_Validate_BST.IntWrapper
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Arrayish/Question.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Arrayish.Question
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Ant.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Ant
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.QuestionC
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_01_Route_Between_Nodes/Graph.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_01_Route_Between_Nodes.Graph
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.QuestionA
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_24_Pairs_With_Sum/Tester.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_24_Pairs_With_Sum.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Line.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Line
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionB
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_06_Smallest_Difference/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_06_Smallest_Difference.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionD.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionD
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_10_Rank_from_Stream/Question.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_10_Rank_from_Stream.Question
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_03_Magic_Index/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_03_Magic_Index.QuestionB
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_09_Sorted_Matrix_Search/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_09_Sorted_Matrix_Search.QuestionA
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_22_Word_Transformer/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_22_Word_Transformer.QuestionA
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/ParseResult.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.ParseResult
+mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_03_Flip_Bit_to_Win/QuestionD.java
+ mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_03_Flip_Bit_to_Win.QuestionD
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_05_Sum_Lists/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_05_Sum_Lists.QuestionB
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_23_Max_Black_Square/QuestionEff.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_23_Max_Black_Square.QuestionEff
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/Tester.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.Tester
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_02_Group_Anagrams/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_02_Group_Anagrams.QuestionB
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_08_Find_Duplicates/Question.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_08_Find_Duplicates.Question
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/Tester.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Tester
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/Vehicle.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.Vehicle
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_05_Recursive_Multiply/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_05_Recursive_Multiply.QuestionA
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_04_Partition/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_04_Partition.QuestionC
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/QuestionE.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionE
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionE$CountedLookup
 mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_01_Sorted_Merge/Question.java
  mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_01_Sorted_Merge.Question
+mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_08_Loop_Detection/Question.java
+ mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_08_Loop_Detection.Question
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionB
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionB$MaxHeapComparator
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_14_Boolean_Evaluation/Others.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Others
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_14_Boolean_Evaluation.Others$Term
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.QuestionA
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.QuestionB
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_03_Delete_Middle_Node/Question.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_03_Delete_Middle_Node.Question
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/Tester.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.Tester
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_04_Check_Balanced/QuestionBrute.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_04_Check_Balanced.QuestionBrute
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_06_Conversion/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_06_Conversion.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_22_Langtons_Ant/Grid.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_22_Langtons_Ant.Grid
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_07_Missing_Int/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_07_Missing_Int.QuestionB
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_11_Diving_Board/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_11_Diving_Board.QuestionC
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/EdgeRemoval/Question.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.EdgeRemoval.Question
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_06_Towers_of_Hanoi/Question.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_06_Towers_of_Hanoi.Question
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_16_The_Masseuse/QuestionD.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_16_The_Masseuse.QuestionD
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_07_Baby_Names/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_07_Baby_Names.QuestionA
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_10_Check_Subtree/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_10_Check_Subtree.QuestionA
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionC
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionC$Index
-mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionB/Philosopher.java
- mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionB.Philosopher
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_26_Sparse_Similarity/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionC
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_26_Sparse_Similarity.QuestionC$Element
-mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_06_Conversion/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_06_Conversion.QuestionA
-mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.QuestionB
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_10_Check_Subtree/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_10_Check_Subtree.QuestionB
-mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_12_Paths_with_Sum/Tester.java
- mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_12_Paths_with_Sum.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionG.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionG
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionG$Check
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionD.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionD
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionD$PartitionResult
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_11_File_System/Entry.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_11_File_System.Entry
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/PositionIterator.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.PositionIterator
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionC
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_07_Build_Order/EdgeRemoval/Graph.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_07_Build_Order.EdgeRemoval.Graph
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_11_Diving_Board/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_11_Diving_Board.QuestionA
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_19_Pond_Sizes/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_19_Pond_Sizes.QuestionA
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.QuestionA
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_09_Parens/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_09_Parens.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/HistogramData.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.HistogramData
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.QuestionC
+mx/bluetouch/ctci/solutions/chapter_13_java/Q13_08_Lambda_Random/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_13_java.Q13_08_Lambda_Random.QuestionA
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_01_Route_Between_Nodes/Node.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_01_Route_Between_Nodes.Node
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_08_First_Common_Ancestor/QuestionE.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionE
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_08_First_Common_Ancestor.QuestionE$Result
 mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_01_Three_in_One/QuestionA.java
  mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_01_Three_in_One.QuestionA
-mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_03_Magic_Index/Question.java
- mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_03_Magic_Index.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.Tester
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_13_ReSpace/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_13_ReSpace.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_03_Intersection/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_03_Intersection.Tester
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionF.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionF
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionC.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionC
-mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Deck.java
- mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Deck
+mx/bluetouch/ctci/solutions/chapter_13_java/Q13_08_Lambda_Random/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_13_java.Q13_08_Lambda_Random.QuestionC
+mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_03_Dining_Philosophers/QuestionB/Chopstick.java
+ mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_03_Dining_Philosophers.QuestionB.Chopstick
+mx/bluetouch/ctci/solutions/chapter_13_java/Q13_07_Lambda_Expressions/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_13_java.Q13_07_Lambda_Expressions.QuestionA
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/Box.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.Box
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_03_Jukebox/Song.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_03_Jukebox.Song
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.QuestionC
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_01_Deck_of_Cards/Suit.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_01_Deck_of_Cards.Suit
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_6_String_Compression/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_6_String_Compression.QuestionC
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_18_Shortest_Supersequence/Range.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_18_Shortest_Supersequence.Range
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_06_Animal_Shelter/Question.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_06_Animal_Shelter.Question
+mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_12.java
+ mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_12
+mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_12_Paths_with_Sum/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_12_Paths_with_Sum.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_21_Volume_of_Histogram/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_21_Volume_of_Histogram.QuestionC
+mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/FBThread.java
+ mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.FBThread
+mx/bluetouch/ctci/solutions/chapter_03_stacks_and_queues/Q3_02_Stack_Min/StackWithMin.java
+ mx.bluetouch.ctci.solutions.chapter_03_stacks_and_queues.Q3_02_Stack_Min.StackWithMin
 mx/bluetouch/ctci/solutions/chapter_05_bit_manipulation/Q5_06_Conversion/Tester.java
  mx.bluetouch.ctci.solutions.chapter_05_bit_manipulation.Q5_06_Conversion.Tester
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_11_Word_Distance/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_11_Word_Distance.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_16_Sub_Sort/Tester.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_16_Sub_Sort.Tester
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_3_URLify/Question.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_3_URLify.Question
-mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Q10_11_Peaks_and_Valleys/Tester.java
- mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Q10_11_Peaks_and_Valleys.Tester
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_05_Factorial_Zeros/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_05_Factorial_Zeros.QuestionB
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_01_Add_Without_Plus/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_01_Add_Without_Plus.Tester
+module-info.java
+ module-info
+mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_12_BiNode/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_12_BiNode.QuestionC
 mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_02_Robot_in_a_Grid/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_02_Robot_in_a_Grid.QuestionB
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_03_List_of_Depths/QuestionDFS.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_03_List_of_Depths.QuestionDFS
 mx/bluetouch/ctci/solutions/chapter_04_trees_and_graphs/Q4_05_Validate_BST/QuestionB.java
  mx.bluetouch.ctci.solutions.chapter_04_trees_and_graphs.Q4_05_Validate_BST.QuestionB
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.QuestionA
 mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_14_Smallest_K/Tester.java
  mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_14_Smallest_K.Tester
-mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_8_Zero_Matrix/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_8_Zero_Matrix.QuestionA
-mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionA
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_04_Parking_Lot/ParkingLot.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_04_Parking_Lot.ParkingLot
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/Cell.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.Cell
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_26_Calculator/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB$1
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_26_Calculator.QuestionB$Operator
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/UserPlay.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.UserPlay
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_10_Minesweeper/UserPlayResult.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_10_Minesweeper.UserPlayResult
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_4_Palindrome_Permutation/Common.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_4_Palindrome_Permutation.Common
+mx/bluetouch/ctci/solutions/chapter_07_object_oriented_design/Q7_08_Othello/Color.java
+ mx.bluetouch.ctci.solutions.chapter_07_object_oriented_design.Q7_08_Othello.Color
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_10_Living_People/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_10_Living_People.QuestionB
 mx/bluetouch/ctci/solutions/chapter_02_linked_list/Q2_02_Return_Kth_To_Last/QuestionD.java
  mx.bluetouch.ctci.solutions.chapter_02_linked_list.Q2_02_Return_Kth_To_Last.QuestionD
-mx/bluetouch/ctci/solutions/chapter_17_hard/question_17_24_Max_Submatrix/QuestionA.java
- mx.bluetouch.ctci.solutions.chapter_17_hard.question_17_24_Max_Submatrix.QuestionA
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionE.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionE
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_07_The_Apocalypse/Question.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_07_The_Apocalypse.Question
+mx/bluetouch/ctci/solutions/chapter_15_threads_and_locks/Q15_07_FizzBuzz/NumberThread.java
+ mx.bluetouch.ctci.solutions.chapter_15_threads_and_locks.Q15_07_FizzBuzz.NumberThread
+mx/bluetouch/ctci/solutions/chapter_10_sorting_and_searching/Arrayish/Listy.java
+ mx.bluetouch.ctci.solutions.chapter_10_sorting_and_searching.Arrayish.Listy
+mx/bluetouch/ctci/solutions/chapter_06_math_and_logic_puzzles/Q6_10_Test_Strips/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_06_math_and_logic_puzzles.Q6_10_Test_Strips.QuestionA
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_15_Master_Mind/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_15_Master_Mind.Tester
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/BoxComparator.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.BoxComparator
 mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionH.java
  mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionH
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_08_English_Int/Question.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_08_English_Int.Question
-mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_04_Tic_Tac_Win/QuestionB.java
- mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_04_Tic_Tac_Win.QuestionB
+mx/bluetouch/ctci/solutions/chapter_00_Big_O/Q_02.java
+ mx.bluetouch.ctci.solutions.chapter_00_Big_O.Q_02
+mx/bluetouch/ctci/solutions/chapter_09_system_design_and_scalability/Q9_02_Social_Network/Tester.java
+ mx.bluetouch.ctci.solutions.chapter_09_system_design_and_scalability.Q9_02_Social_Network.Tester
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_1_Is_Unique/QuestionB.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_1_Is_Unique.QuestionB
+mx/bluetouch/ctci/solutions/chapter_08_recursion_and_dynamic_programming/Q8_13_Stack_of_Boxes/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_08_recursion_and_dynamic_programming.Q8_13_Stack_of_Boxes.QuestionC
+mx/bluetouch/ctci/solutions/chapter_01_array_and_strings/question_1_5_One_Away/QuestionA.java
+ mx.bluetouch.ctci.solutions.chapter_01_array_and_strings.question_1_5_One_Away.QuestionA
+mx/bluetouch/ctci/solutions/chapter_16_moderate/Q16_06_Smallest_Difference/QuestionC.java
+ mx.bluetouch.ctci.solutions.chapter_16_moderate.Q16_06_Smallest_Difference.QuestionC
