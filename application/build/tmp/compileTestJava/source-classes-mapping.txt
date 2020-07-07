@@ -1,0 +1,2 @@
+mx/bluetouch/ctci/app/MessageUtilsTest.java
+ mx.bluetouch.ctci.app.MessageUtilsTest

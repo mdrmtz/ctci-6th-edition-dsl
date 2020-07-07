@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mx.bluetouch.ctci.ds.TrieNodeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-06T23:18:01" hostname="US-IT00423" time="0.014">
+  <properties/>
+  <testcase name="testConstructor()" classname="mx.bluetouch.ctci.ds.TrieNodeTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
